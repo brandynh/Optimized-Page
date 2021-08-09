@@ -11,9 +11,6 @@ Updated html file by replacing several div
 sections with more approprate labels 
 following more semantic HTML practices, while allowing 
 for more fluid readability. 
-
-
-
 ```
 
 
