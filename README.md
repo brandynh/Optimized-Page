@@ -22,6 +22,12 @@ The current code is a bit repetitive and does not leave much room for expansion 
 - Added alt elements to images within the page
 ```
 
+
+## Demonstration
+
+![ScreenShot](./assets/images/screenShot.gif)
+
+
 ## Conclusion
 
 The code was optimized and updated to follow more semantic HTML practices, while allowing for more fluid readability.
