@@ -37,4 +37,4 @@ The code was optimized and updated to follow more semantic HTML practices, while
 
 ### Links
 
-[Deployed Website] (https://brandynh.github.io/Optimized-Page/)
+[Deployed Website](https://brandynh.github.io/Optimized-Page/)
