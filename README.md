@@ -35,6 +35,6 @@ The current code is a bit repetitive and does not leave much room for expansion 
 The code was optimized and updated to follow more semantic HTML practices, while allowing for more fluid readability.
 
 
-### Links
+## Links
 
 [Deployed Website](https://brandynh.github.io/Optimized-Page/)
