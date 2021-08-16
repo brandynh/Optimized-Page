@@ -1,16 +1,14 @@
 # Optimized-Page
 
-## Problem 
+## Description
 
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+A marketing agency request some code refactoring.
+This page is a refactored version of the origional.
+By consolidating some the HTML and CSS and adding some Alt
+attributes to images I was able to Optimize the page for future 
+growth and easier readability of the code itself.
 ```
-
-## Overview
-
-The current code is a bit repetitive and does not leave much room for expansion in the future.
 
 ## Fixes
 
@@ -23,7 +21,7 @@ The current code is a bit repetitive and does not leave much room for expansion 
 ```
 
 
-## Demonstration
+## Screenshot
 
 ![ScreenShot](./assets/images/screenShot.gif)
 

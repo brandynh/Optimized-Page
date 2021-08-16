@@ -61,16 +61,6 @@ h3 {
     text-align: center;  
 }
 
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
 
 /* Converted hero to ID */
 #hero {
@@ -135,14 +125,15 @@ footer h2 {
     max-height: 200px;
 }
 
-.footer {
+
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 
